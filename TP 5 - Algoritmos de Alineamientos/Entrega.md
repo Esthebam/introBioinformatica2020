@@ -52,17 +52,17 @@ Penalidad: 2 - Identidad: -0.2
  
 #### ¡Es momento de llevar entonces estos conceptos a lo concreto! Te proponemos pensar los pasos a seguir en un alineamiento de dos secuencias cortas, teniendo en cuenta una matriz genérica de scoring (puntuación) que contemple las complejidades que estuvimos viendo, es decir que penalice de distinto modo una inserción o deleción, que una discordancia (mismatch) o una coincidencia (match). Escribirlos o esquematizarlos en un diagrama de flujo.
  
-*Si en cada paso tenemos la mejor alineación posible de la sub-alineación (solución recursiva), debemos elegir la opción que nos permita maximizar el puntaje:
+*Si en cada paso tenemos la mejor alineación posible de la sub-alineación (solución recursiva), debemos elegir la opción que nos permita maximizar el puntaje:*
 
  - sub-solucion + gap izq
  - sub-solucion + gap der
- - sub-solucion + coincidencia*
+ - sub-solucion + coincidencia
  
 #### RETO VI: Utilizando la herramienta interactiva desarrolladas por el Grupo de Bioinformática de Freiburg probá distintos Gap penalties para el ejemplo propuesto y observa lo que ocurre. Interpretando la recursión, explica con tus palabras de dónde salen los valores de la matriz que se construye. ¡Esquematiza tus conclusiones!
  
-*Los valores de la matriz se obtienen aplicando los valores de match, mismatch y gap. Moverse una celda hacia la derecha o una celda hacia abajo implica hacer el valor actual sumado al valor del gap. También, si los índices son iguales, hay que sumar el valor de match o mismatch dependiendo de los valores en esa posición.
+*Los valores de la matriz se obtienen aplicando los valores de match, mismatch y gap. Moverse una celda hacia la derecha o una celda hacia abajo implica hacer el valor actual sumado al valor del gap. También, si los índices son iguales, hay que sumar el valor de match o mismatch dependiendo de los valores en esa posición.*
  
-La siguiente función crea la matriz:*
+*La siguiente función crea la matriz:*
 
 ```ruby
 def crear_matriz(seq_a, seq_b, match, mismatch, gap)
