@@ -30,7 +30,7 @@ La célula es la que individualiza las proteínas que deben ser destruidas. Para
 *La resolucion nos dice la posibilidad para determinar o distinguir entre dos puntos que esten cercanos, es decir, si yo tengo una resolucion mas chica(puntos mas cercas) se puede diferenciar pero si la resolucion es mas grande solo se va poder diferenciar dos cosas que esten a esa distancia.
 Este metodo no es exacto pero es el unico que da la posibilidad de tener una idea de como es una proteina en cuestion.*
 
-### En la pantalla principal vemos una representación de la estructura de ubiquitina. ¿Qué significan las cintas, las flechas y las regiones angostas?
+#### En la pantalla principal vemos una representación de la estructura de ubiquitina. ¿Qué significan las cintas, las flechas y las regiones angostas?
 
 *Representan las cadenas, combinación, rotaciones y traducciones necesarias para formar la representación biológica completa de la macromolécula.*
 
