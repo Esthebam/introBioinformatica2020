@@ -3,7 +3,7 @@
 #### RETO I: Enumerá las diferencias que existen entre una célula procariota y eucariota.
 
 - Las procariotas son más pequeñas.
-- Las células procariotas no tienen un núcleo definido y su material genético se encuentra disperso en el citoplasma
+- Las células procariotas no tienen un núcleo definido y su material genético se encuentra disperso en el citoplasma.
 - Las células eucariotas tienen membrana nuclear.
 - Las eucariotas tienen reproducción sexual y asexual, en cambio las procariotas solo asexual.
 - La división celular procariota es directa.
