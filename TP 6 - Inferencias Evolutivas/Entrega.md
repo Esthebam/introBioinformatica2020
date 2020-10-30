@@ -28,7 +28,7 @@ MGSGDAENGKKIFVQKCAQCHTYEVGGKHKTGPNLHGLFGRKTGQAPGYSYTAANKNKGIIWGEDTLMEYLENPKKYIPG
 
 #### b) ¿Qué es el Bootstrap? ¿De qué manera nos habla de la calidad de nuestro árbol? ¿Cómo influye el número de Bootstraps en el resultado?
 
-Bootstrap es un método para inferir que tan fiable es nuestro árbol. El bootstrap value nos indica que tantas veces pudimos observar la misma rama del arbol al realizar la reconstrucción filogenética.
+*Bootstrap es un método para inferir que tan fiable es nuestro árbol. El bootstrap value nos indica que tantas veces pudimos observar la misma rama del arbol al realizar la reconstrucción filogenética.*
 
 #### c) Interpreten los resultados obtenidos, mediante la visualización de los árboles con la herramienta ​FigTree​. ¿Es necesario realizar algún paso extra, previo a la interpretación del árbol? ¿Por qué?
 
