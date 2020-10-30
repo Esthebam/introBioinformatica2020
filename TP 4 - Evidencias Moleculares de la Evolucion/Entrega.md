@@ -36,7 +36,7 @@
 
 #### ¿Qué indican el guión (-), los dos puntos (:) y el asterisco (*)?
 
-*El asterisco (*) indica que en la cadena se encuentra presente el mismo aminoácido en la misma posición. El dos puntos (:) indica que en la cadena se encuentran dos aminoácidos con propiedades muy similares. El guion (-) indica que no hay un aminoácido presente en esa posición de la cadena.*
+*El asterisco indica que en la cadena se encuentra presente el mismo aminoácido en la misma posición. El dos puntos indica que en la cadena se encuentran dos aminoácidos con propiedades muy similares. El guion indica que no hay un aminoácido presente en esa posición de la cadena.*
 
 #### A simple vista, ¿se conserva la secuencia del citocromo c en los organismos?
 
