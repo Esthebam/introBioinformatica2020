@@ -95,7 +95,7 @@ def crear_matriz(seq_a, seq_b, match, mismatch, gap)
  matriz
 end
 ```
-#### RETO VII: calculá el E-value y % identidad utilizando el programa Blast de la siguiente secuencia input usando 20000 hits, un e-value de 100 y tomando aquellos hits con un mínimo de 70% cobertura. Observe y discuta el comportamiento de : E-value vs. % id, Score vs %id, Score vs E-value
+#### RETO VII: calculá el E-value y % identidad utilizando el programa Blast de la siguiente secuencia input usando 20000 hits, un e-value de 100 y tomando aquellos hits con un mínimo de 70% cobertura. Observe y discuta el comportamiento de : E-value vs. % id, Score vs %id, Score vs E-value.
  
 > E-value vs. % id
  
