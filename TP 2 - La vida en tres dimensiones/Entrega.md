@@ -1,4 +1,4 @@
-# Entrega trabajo práctico Bioinformática Nº2
+# TP 2 - La vida en tres dimensiones - Introducción a la Bioinformática
 
 #### ¿Por qué una célula querría destruir sus propias proteínas?
 
