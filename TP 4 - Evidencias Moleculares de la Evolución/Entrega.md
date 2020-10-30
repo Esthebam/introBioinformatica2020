@@ -52,12 +52,12 @@
 
 ### A juzgar por los organismos participantes, ¿cuáles creería que deberían estar más agrupados en el árbol filogenético?
 
-Deberían estar agrupados por especies y descendencia:
+*Deberían estar agrupados por especies y descendencia:
 
 Humano, Gorila occidental, chimpancé común
 Salmón, Rana
 Caballo
-Gallo
+Gallo*
 
 ### Observemos el árbol filogenético. ¿Concuerda con lo esperado? ¿De qué organismos son los citocromos c más parecidos? ¿Cómo se explica?
 
