@@ -52,9 +52,9 @@
 
 ### A juzgar por los organismos participantes, ¿cuáles creería que deberían estar más agrupados en el árbol filogenético?
 
-*Deberían estar agrupados por especies y descendencia:
+*Deberían estar agrupados por especies y descendencia:*
 
-Humano, Gorila occidental, chimpancé común
+*Humano, Gorila occidental, chimpancé común
 Salmón, Rana
 Caballo
 Gallo*
